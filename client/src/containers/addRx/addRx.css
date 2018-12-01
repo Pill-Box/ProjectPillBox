@@ -1,0 +1,29 @@
+.formStyle {
+    margin: 10px;
+    padding: 1em;
+}
+
+.formFieldsStyleAddRx {
+    margin: 0 0 .5em 0;
+}
+
+
+.addRx-box {
+    margin-bottom: 150px;
+}
+
+.addRxFormLabel {
+    margin: 0;
+    font-size: .8em;
+    text-align: left;
+    line-height: 1;
+    Font-weight: bold
+}
+
+.addRxFormLabelExample {
+    margin: 0;
+    font-size: .6em;
+    text-align: left;
+    line-height: 1;
+    Font-weight: bold
+}

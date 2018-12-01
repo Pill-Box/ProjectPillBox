@@ -1,0 +1,31 @@
+.title {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.title:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.nav {
+    padding-top: 10px;
+    border: 0px;
+    padding-bottom: 5px;    
+}
+
+.gradient-background-title {
+    background: linear-gradient(135deg, rgb(4, 188, 230) 0%, rgba(4,164,200,1) 1%, rgba(3,113,150,1) 100%);
+}
+
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
+    .nav, .navbar, .navbar-default {
+        padding-top: 10px;
+        border: 0px;
+        padding-bottom: 5px; 
+        padding-left: 0px;
+    }
+}

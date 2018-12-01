@@ -1,0 +1,43 @@
+/* .dashboard-body {
+    min-height: 1000px;
+    background: linear-gradient(135deg, rgb(4, 188, 230) 0%, rgba(4,164,200,1) 1%, rgba(3,113,150,1) 100%);
+
+}
+
+.patient-cards {
+    background: white;
+    margin-top: 30px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 8px 9px 5px -7px rgba(0,84,76,1);
+    margin: auto;
+}
+ */
+
+ #clock {
+     text-align: center;
+     color: white;
+ }
+
+ /* .get-drug-info {
+    margin-top: 25px;
+    width: 35%;
+    height: 45px;
+    background-color: rgb(2, 76, 99);
+    color: White;
+    border: 0px;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 20px -3px rgba(0, 0, 0, 0.568); */
+
+.get-drug-info:hover {
+    opacity: .9;
+    cursor: pointer;
+}
+
+.fa-notes-medical {
+    color: #ffffff;
+}
+
+.fa-icon {
+    margin-left: 7px;
+}

@@ -1,0 +1,43 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+.modal-main {
+  position:fixed;
+  background: white;
+  width: 80%;
+  height: auto;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  padding: 20px;
+  border-radius: 3px;
+  max-height: 95vh;
+  overflow-y: auto;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}
+.get-drug-info {
+  margin-top: 25px;
+  width: 35%;
+  height: 45px;
+  background-color: rgb(2, 76, 99);
+  color: White;
+  border: 0px;
+  font-size: 20px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 20px -3px rgba(0, 0, 0, 0.568);
+  min-width: 190px;
+}
+
+

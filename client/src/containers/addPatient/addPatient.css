@@ -1,0 +1,26 @@
+.formStyle {
+    margin: 10px;
+    padding: 1em;
+}
+
+.formFieldsStyle {
+    margin: 1em 0 1em 0;
+}
+
+.add {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+/* h3 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+} */
+
+.getPatientData {
+    margin-left: 50px;
+}

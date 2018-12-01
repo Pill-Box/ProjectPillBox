@@ -1,0 +1,24 @@
+.bottomNav {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    border-top: 1px solid black;
+    margin-top: 0;
+    background-color: #ffffff;
+}
+
+.bar-cols {
+    width: 20%;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fas {
+    text-decoration: none !important;
+    color: black;
+}
+
