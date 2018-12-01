@@ -1,7 +1,7 @@
 {
     "development": {
-      "username": "admin",
-      "password": "password1",
+      "username": "root",
+      "password": "udU&8Ma2nE17",
       "database": "pillbox",
       "host": "127.0.0.1",
       "port": 3306,
